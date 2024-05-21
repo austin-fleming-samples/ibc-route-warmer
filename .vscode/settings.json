@@ -1,0 +1,33 @@
+{
+	"cSpell.words": [
+		"bignumber",
+		"cosmjs",
+		"cosmoshub",
+		"counterparty",
+		"daisyui",
+		"denoms",
+		"envar",
+		"headlessui",
+		"interchain",
+		"keplr",
+		"Oraichain",
+		"Stargate",
+		"tailwindcss",
+		"tanstack",
+		"TRYOPEN",
+		"uatom",
+		"unfetch",
+		"uuidv",
+		"WALLETCONNECT"
+	],
+	"window.autoDetectColorScheme": true,
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"editor.defaultColorDecorators": true,
+	"editor.defaultFormatter": "biomejs.biome",
+	"eslint.format.enable": false,
+	"prettier.enable": false,
+	"editor.codeActionsOnSave": {
+		"quickfix.biome": "explicit",
+		"source.organizeImports.biome": "explicit"
+	}
+}
